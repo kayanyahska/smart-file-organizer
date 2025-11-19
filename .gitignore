@@ -1,0 +1,12 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Mac system files
+.DS_Store
+
+# Project specific
+.organizer_history.json
